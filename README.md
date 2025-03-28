@@ -23,6 +23,8 @@ npm run dev
 
 The app should now be running on `http://localhost:5173/` (or another available port).
 
+Live project - [https://github.com/tusharverma200/employWise](https://employwise-assignment-tushar.netlify.app/)
+
 ## Assumptions and Considerations
 
 - **Authentication Token Handling:** The token is stored in `localStorage` and used for session management.
